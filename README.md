@@ -204,16 +204,18 @@ This project is licensed under the Academic Using License. See LICENSE for detai
 
 ## Citation
 If you use this tool in your research, please cite:
+```bash
 Authors: 
-- family-names: Al-Shamiri
-  given-names: Abdulkawi Yahya Radman
-- family-names: Yu
-  given-names: Dong-Jun
+- family-name: Al-Shamiri
+  given-name: Abdulkawi Yahya Radman
+- family-name: Yu
+  given-name: Dong-Jun
 Title: ICUM: A Framework for Protein Inference and Codon Bias Discovery from Noncanonical RNA Sequences
 Journal: Journal of Chemical Information and Modeling
 DOI: 10.5281/zenodo.xxxxxxx
 URL: https://github.com/abdulkawiy/ICUM
 Version: 1.0
+```
 
 ## Contact
 For questions, please contact: Abdulkawi Yahya Radman Al-Shamiri
