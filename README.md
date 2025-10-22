@@ -3,6 +3,8 @@
 **ICUM** is a Python-based framework for *protein inference and codon bias discovery* from noncanonical RNA sequences.  
 It implements automated workflows for codon validation, identification of unknown codons, RSCU and ENC calculations, and entropy-based codon bias analysis. It processes codons, detects start/stop codons, calculates GC content, classifies amino acid frequencies, detects unknown codons, and visualizes key features using clustering and statistical plots.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17414482.svg)](https://doi.org/10.5281/zenodo.17414482)
+
 ---
 
 ## Features
