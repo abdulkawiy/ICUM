@@ -212,8 +212,8 @@ Authors:
   given-name: Abdulkawi Yahya Radman
 - family-name: Yu
   given-name: Dong-Jun
-Title: ICUM: A Framework for Protein Inference and Codon Bias Discovery from Noncanonical RNA Sequences
-Journal: Journal of Chemical Information and Modeling
+- Title: ICUM: A Framework for Protein Inference and Codon Bias Discovery from Noncanonical RNA Sequences
+- Journal: xxxxxxxxxxxxxxxxxxx
 DOI: 10.5281/zenodo.xxxxxxx
 URL: https://github.com/abdulkawiy/ICUM
 Version: 1.0
